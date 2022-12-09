@@ -22,7 +22,7 @@ const counter2Reducer = (state, action) => {
       return state;
   }
 };
-//  test
+//  test1
 const initState = {
   // b1
   data: [],
